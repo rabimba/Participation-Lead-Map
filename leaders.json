@@ -25,6 +25,14 @@
 			"lng": 7.438747
 		},
 		{
+			"name": "Rabimba Karanjai",
+			"url": "https://mozillians.org/en-US/u/karanjai.moz/",
+			"gravatar":"karanjai.moz@gmail.com",
+			"country": "United States",
+			"lat": 29.7604,
+			"lng": 95.3698
+		},
+		{
 			"name": "Your Name",
 			"url": "https://mozillians.org/YourNick",
 			"gravatar":"youremail@domain.tld",
